@@ -1,5 +1,5 @@
 # Wordle Solver
-A very buggy automatic Wordle solver for https://wordleunlimited.com
+A very buggy and suboptimal automatic Wordle solver for https://wordleunlimited.com
 
 ## Branches
 - [main](https://github.com/mpsparrow/wordle-solver/tree/main) - script to run solver
